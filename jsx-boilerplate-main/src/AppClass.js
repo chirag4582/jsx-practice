@@ -31,7 +31,7 @@ export default class AppClass extends Component{
       <div>
         {this.imageData().map((elt)=>{
           return <img className="image" src={elt.img} alt={elephant}></img>
-        })};
+        })}
       </div>
     </div>)
     
