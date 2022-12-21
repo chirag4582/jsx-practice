@@ -1,0 +1,7 @@
+/* add your styles here */
+.image{
+    width: 50vh;
+}
+.container{
+    display: flex;
+}
